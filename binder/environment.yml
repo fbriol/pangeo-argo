@@ -1,0 +1,6 @@
+name: pytide
+channels:
+  - conda-forge
+dependencies:
+  - pyinterp
+  - pyarrow
